@@ -1,6 +1,6 @@
 {
-    "name": "flutter_dashboard",
-    "short_name": "flutter_dashboard",
+    "name": "auction_pricing_web",
+    "short_name": "auction_pricing_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
